@@ -1,8 +1,8 @@
 * { box-sizing: border-box; }
-body { margin: 0; background: #eef3f7; color: #203040;
+body { margin: 0; background: #0d5d9f; color: #9ad700;
 font-family: Arial, sans-serif; }
 main { max-width: 1200px; margin: 30px auto; padding: 24px;
-background: white; border-radius: 12px; }
+background: rgb(25, 147, 70); border-radius: 12px; }
 nav { display: flex; flex-wrap: wrap; gap: 18px; padding: 15px 0; }
 a { color: #086391; }
 form { padding: 12px 0; }
@@ -15,6 +15,6 @@ border: 0; border-radius: 5px; cursor: pointer; }
 .rolagem { overflow-x: auto; }
 table { border-collapse: collapse; width: 100%; }
 th, td { padding: 10px; text-align: left; border: 1px solid #ccd6df; }
-th { background: #e6f1f8; }
+th { background: #1879b5; }
 td form { padding: 6px 0; }
 @media (max-width: 600px) { main { margin: 0; padding: 15px; } }
